@@ -1,4 +1,4 @@
-SP500 Predictor
+S&P500 Predictor
 
 This project is a machine learning model that predicts the movement of the S&P 500 index based on historical data. It uses Yahoo Finance data via `yfinance` and applies a Random Forest Classifier to determine if the index is likely to go up the next trading day.
 
